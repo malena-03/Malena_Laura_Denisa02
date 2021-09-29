@@ -1,5 +1,7 @@
 # ------------------------------------------------------
-# Convierte un número binario a hexadecimal. VOY A ESTROPEAR EL ARCHIVO - DENISA
+<<<<<<< HEAD
+# Convierte un número binario a hexadecimal. El error ha sido resuelto
+>>>>>>> origin/Laura_Branch
 # El número binario es un string e.g. "101"
 # El número hexadecimal es también un string e.g. "AB5"
 # ------------------------------------------------------
